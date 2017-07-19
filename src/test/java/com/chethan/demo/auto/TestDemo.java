@@ -11,7 +11,11 @@ import org.testng.annotations.Test;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
-
+/**
+ * 
+ * @author Chethan G K
+ *
+ */
 public class TestDemo {
 
 	// Create instance for Appium Driver
